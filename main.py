@@ -17,6 +17,8 @@ symbol_count = {
 }
 
 
+
+
 symbol_value = {
     "A": 5,
     "B": 4,
