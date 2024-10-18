@@ -14,9 +14,6 @@ symbol_count = {
     "D": 8
 }
 
-
-
-
 symbol_value = {
     "A": 5,
     "B": 4,
