@@ -22,8 +22,6 @@ symbol_value = {
 }
 
 
-
-
 def check_winnings(columns, lines, bet, values):
     winnings = 0
     winning_lines = []
