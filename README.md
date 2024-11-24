@@ -20,7 +20,6 @@ How to Play:
 5. View the outcome of the spin, including winnings and winning lines.
 6. Repeat the process until the player decides to quit.
 
-
 Explore and Customize:
 
 Feel free to explore the code.
