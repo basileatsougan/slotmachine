@@ -69,6 +69,7 @@ def print_slot_machine(columns):
         print()
 
 
+
 def deposit():
     while True:
         amount = input('Enter the amount you would like to deposit(in $): ')
@@ -83,6 +84,7 @@ def deposit():
             print('Please enter a number.')
 
     return amount
+
 
 def get_number_of_lines():
     while True:
@@ -99,6 +101,7 @@ def get_number_of_lines():
     return lines
 
 
+
 def get_bet():
     while True:
         amount = input('Enter the amount you would like to bet on each line (in $): ')
@@ -113,7 +116,9 @@ def get_bet():
             print('Please enter a number.')
 
     return amount
-    
+
+
+
 def spin(balance):
     lines = get_number_of_lines()
     
