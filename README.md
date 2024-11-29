@@ -11,6 +11,8 @@ The bet amount can be customized, with a minimum bet of $1 and a maximum bet of 
 The game calculates winnings based on the alignment of symbols on the chosen lines.
 The player's balance is updated after each spin, and the game continues until the player decides to quit.
 
+
+
 How to Play:
 
 1. Run the script.
@@ -21,6 +23,9 @@ How to Play:
 6. Repeat the process until the player decides to quit.
 
 Explore and Customize:
+
+
+
 
 Feel free to explore the code.
 Modify symbols, adjust betting limits, or add creative elements to make the game your own.
